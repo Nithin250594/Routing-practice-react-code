@@ -1,0 +1,47 @@
+/* Write your CSS code here */
+.header-bg {
+  background-color: #fff;
+  background-size: cover;
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.logo-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wave-logo {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.header-logo-title {
+  color: #12022f;
+  font-size: 21px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.header-list-items {
+  list-style-type: none;
+
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-components {
+  text-decoration-line: none;
+  color: #12022f;
+  font-size: 21px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding-left: 20px;
+}

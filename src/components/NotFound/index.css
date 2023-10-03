@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  margin-top: 50px;
+  width: 250px;
+}
+
+.not-found-title {
+  color: #551e53;
+  font-size: 38px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
