@@ -20,6 +20,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+.app-body{
+  flex-grow:1;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
 
 .wave-page-bg {
   border: 5px #551e53 solid;
